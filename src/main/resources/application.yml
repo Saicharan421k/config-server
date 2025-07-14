@@ -8,4 +8,4 @@ spring:
       server:
         git:
           uri: https://github.com/Saicharan421k/microservices-config.git
-          clone-on-start: truespring.application.name=config-server
+          clone-on-start: true
